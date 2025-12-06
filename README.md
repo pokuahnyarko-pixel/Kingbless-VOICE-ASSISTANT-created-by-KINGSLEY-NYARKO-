@@ -22,7 +22,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # Clone or create the files
-git clone [repository-url] OR create files manually
+git clone [https://github.com/pokuahnyarko-pixel/Kingbless-VOICE-ASSISTANT-created-by-KINGSLEY-NYARKO-.git]
 
 # Make setup script executable
 chmod +x setup.sh
